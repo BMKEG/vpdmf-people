@@ -16,6 +16,7 @@
 
 	<properties>
 		<vpdmf.model.type>MagicDraw</vpdmf.model.type>
+		<vpdmf.model.url>http://bmkeg.isi.edu/people</vpdmf.model.url>
 		<vpdmf.model.path>vpdmf-people.xml</vpdmf.model.path>
 		<vpdmf.viewsPath>specs</vpdmf.viewsPath>
 		<vpdmf.nestedModels></vpdmf.nestedModels>  	
